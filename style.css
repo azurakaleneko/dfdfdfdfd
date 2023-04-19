@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+.pie_de_kirby{
+position: fixed;
+color: rgb(79, 161, 255);
+background-color: rgb(254, 187, 199);
+bottom: 0; 
+width: 100%;
+line-height: 3;
+text-align: center;
+}
+
+
+canvas{
+    border: 2px solid rgb(17, 51, 90);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 15px 15px 15px rgb(204, 204, 239);
+}
